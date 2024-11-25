@@ -3,10 +3,10 @@
 
 <div align="center"> 
 
-<img src="https://user-images.githubusercontent.com/72894980/193053973-bef8938a-5591-4b8e-a5d4-95d257421b7b.png" width=350 heigth=300 />
-<img src="https://user-images.githubusercontent.com/72894980/193054026-1cff7e66-0133-48b8-866d-29dc8fe5e389.png" width=350 heigth=300 />
-<img src="https://user-images.githubusercontent.com/72894980/193054114-c527f1e0-c49b-4e96-936a-4d28ab7fa73e.png" width=350 heigth=300 />
-<img src="https://user-images.githubusercontent.com/72894980/193054186-f1d21098-f758-431f-9017-aee3542fd01b.png" width=350 heigth=300 />
+<img src="https://user-images.githubusercontent.com/72894980/193053973-bef8938a-5591-4b8e-a5d4-95d257421b7b.png" width="350" height="300" />
+<img src="https://user-images.githubusercontent.com/72894980/193054026-1cff7e66-0133-48b8-866d-29dc8fe5e389.png" width="350" height="300" />
+<img src="https://user-images.githubusercontent.com/72894980/193054114-c527f1e0-c49b-4e96-936a-4d28ab7fa73e.png" width="350" height="300" />
+<img src="https://user-images.githubusercontent.com/72894980/193054186-f1d21098-f758-431f-9017-aee3542fd01b.png" width="350" height="300" />
 
 </div>
 
@@ -40,21 +40,19 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/Edyllauson">
-        <img src="https://avatars.githubusercontent.com/u/124541348?v=4" width="100px" alt="Foto do Edyllauson Alves no GitHub"/><br>
+        <img src="https://github.com/Edyllauson.png" width="100px" alt="Foto do Edyllauson Alves no GitHub"/><br>
         <sub>
-          <b style="text-decoration: none;">Edyllauson Alves</b>
+          <b>Edyllauson Alves</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/gabyfreitass">
-        <img src="https://avatars.githubusercontent.com/u/130667076?v=4" width="100px;" alt="Foto da gaby no GitHub"/><br>
+        <img src="https://github.com/gabyfreitass.png" width="100px" alt="Foto da Gaby no GitHub"/><br>
         <sub>
-          <b>gabyfreitas</b>
+          <b>Camila Rolim</b>
         </sub>
       </a>
     </td>
    </tr>
-    
-   
-</table>    
+</table>
