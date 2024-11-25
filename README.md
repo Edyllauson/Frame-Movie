@@ -48,9 +48,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/gabyfreitass">
-        <img src="https://avatars.githubusercontent.com/u/130667076?v=4" width="100px;" alt="Foto de gaby no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/130667076?v=4" width="100px;" alt="Foto da gaby no GitHub"/><br>
         <sub>
-          <b>Camila Rolim</b>
+          <b>gabyfreitas</b>
         </sub>
       </a>
     </td>
