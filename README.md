@@ -1,7 +1,7 @@
 <h1 align="center">Movies Lib</h1>
 <p align="center">Uma biblioteca de filmes feita em React.JS consumindo a API da TMDB</p>
 
-<div align="center">
+<div align="center"> 
 
 <img src="https://user-images.githubusercontent.com/72894980/193053973-bef8938a-5591-4b8e-a5d4-95d257421b7b.png" width=350 heigth=300 />
 <img src="https://user-images.githubusercontent.com/72894980/193054026-1cff7e66-0133-48b8-866d-29dc8fe5e389.png" width=350 heigth=300 />
@@ -31,4 +31,30 @@ Ao clicar em um filme específico, você pode obter informações mais detalhada
 • Descrição do filme </br>
 
 ## Desenvolvido utilizando React.JS.
-## Navegação de rotas implementada com react-router-dom.
+
+## 🤝 Colaboradores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Edyllauson">
+        <img src="https://avatars.githubusercontent.com/u/124541348?v=4" width="100px" alt="Foto do Edyllauson Alves no GitHub"/><br>
+        <sub>
+          <b style="text-decoration: none;">Edyllauson Alves</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gabyfreitass">
+        <img src="https://avatars.githubusercontent.com/u/130667076?v=4" width="100px;" alt="Foto de gaby no GitHub"/><br>
+        <sub>
+          <b>Camila Rolim</b>
+        </sub>
+      </a>
+    </td>
+   </tr>
+    
+   
+</table>    
